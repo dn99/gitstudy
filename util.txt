@@ -1,6 +1,10 @@
 GIT 
+
 -- 파일 변경 이력 추적
 git blame 파일명
+
+
+
 
 
 
@@ -10,5 +14,15 @@ SOURCE TREE
 
 
 
+
 VSCODE EXTENTION 
 git lens
+
+
+
+
+
+
+COMMAND
+
+tig
