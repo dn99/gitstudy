@@ -1,5 +1,5 @@
 GIT 
-
+git log --graph --all --pretty=format:'%C(yellow)[%ad]%C(reset) %C(green)[%h]%C(reset) | %C(white)%s %C(bold red){{%an}}%C(reset) %C(blue)%d%C(reset)' --date=short
 -- 파일 변경 이력 추적
 git blame 파일명
 
